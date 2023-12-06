@@ -1,7 +1,7 @@
 # calculator.ts-PIAIC-
 Import the inquirer library: The code starts by importing the inquirer library, which is used to create interactive command-line prompts for user input.
 
-Use inquirer.prompt() to Gather User Input: The inquirer.prompt() function is used to present a series of questions to the user. The responses provided by the user are collected in an answer object.
+Use inquirer.prompt() to Gather User Input: The inquirer.prompt() function is used to pres.ent a series of questions to the user. The responses provided by the user are collected in an answer object.
 
 Define the Questions: The code defines a list of questions to ask the user. These questions include asking for two numbers (num1 and num2) and allowing the user to select an operation (operation) from a predefined list of choices.
 
